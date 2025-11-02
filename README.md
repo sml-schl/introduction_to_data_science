@@ -33,6 +33,11 @@ Hier findest du die interaktiven Jupyter Notebooks für die täglichen Übungen:
 
 Im Ordner `solutions/` wirst du Schritt-für-Schritt die Musterlösungen zu ausgewählten Tagen finden. Schau hier aber erst rein, nachdem du die Aufgaben selbst versucht hast! 😉
 
+### Setup
+Die Datei `SETUP.md` breschriebt wie du deine lokale Programmierumgebung aufsetzt. 
+Sie beinhaltet alle nötigen Commands und Links herfür. 
+
+
 ### 📊 Daten (`data/`)
 
 Der Ordner `data/formula-1-race-data/` enthält einen umfangreichen Formel-1-Datensatz mit verschiedenen CSV-Dateien:
