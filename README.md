@@ -64,4 +64,11 @@ Diese Daten werden an manchen Tagen in den Übungen verwendet, um realistische A
 
 Keine Sorge, wenn nicht alles auf Anhieb klappt – Data Science ist ein Lernprozess. Experimentiere, probiere aus und scheue dich nicht, Fragen zu stellen.
 
-Happy Coding! 🎉
+
+## Backup Lösung ohne Installation
+https://mybinder.org/v2/gh/sml-schl/introduction_to_data_science/HEAD
+
+https://mybinder.org/
+
+
+
