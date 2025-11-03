@@ -1,5 +1,8 @@
 # 👋 Willkommen zur Einführung in Data Science!
 
+-> Copilot: https://github.com/settings/education/benefits
+
+
 Hallo und herzlich willkommen! Schön, dass du hier bist. Dieses Repository begleitet dich durch deine ersten Schritte in Data Science.
 
 # Vorlesungsagenda
