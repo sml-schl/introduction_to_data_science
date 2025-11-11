@@ -168,11 +168,23 @@ podman run -it --rm -p 8888:8888 \
 docker.io/jupyter/base-notebook:latest
 ```
 
+Command for the Image with data and installed requirements
+```bash
+podman run -p 8888:8888 -v "$(pwd)":/home/jovyan/work docker.io/jocowhite/intro-ds:latest
+```
+
+
 #### Windows (PowerShell):
 
 ```powershell
 podman run -it --rm -p 8888:8888 -v "${PWD}:/home/jovyan/work" docker.io/jupyter/base-notebook:latest
 ```
+
+Command for the Image with data and installed requirements
+```bash
+podman run -p 8888:8888 -v "${PWD}:/home/jovyan/work" docker.io/jocowhite/intro-ds:latest
+```
+
 
 ---
 
