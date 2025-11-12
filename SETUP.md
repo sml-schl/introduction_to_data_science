@@ -193,11 +193,6 @@ podman run -p 8888:8888 -v "${PWD}:/home/jovyan/work" docker.io/jocowhite/intro-
 Kopiere den Link aus dem Terminal, der mit
 `http://127.0.0.1:8888` beginnt.
 
-> ⚠️ **Achtung:**
-> Ändere den Port von **8888** auf **88**
-> (z. B. `http://127.0.0.1:88/lab`)
-> und prüfe, dass **kein www** davor steht.
-
 Falls du aufgefordert wirst, einen Token einzugeben,
 kopiere alles **nach dem "=" Zeichen** aus dem Terminal-Link.
 
